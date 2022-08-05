@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-family: Poppins;
+}
+/* 
+.bg {
+    background-image: url("img/aaa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(2px);
+} */
+
+.alfredo {
+    background-image: url("img/alfredo.jpg");
+    background-size: cover;
+}
+
+.search {
+    background-image: url("img/pizza5.jpg");
+    background-size: cover; 
+}
+
+
+.bg-2 {
+    background-image: url("img/pizza2.jpg");
+    background-size: cover; 
+}
